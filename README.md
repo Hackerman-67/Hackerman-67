@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Hackerman-67/Hackerman-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a student and an novice software developer from Russia 👨🏻‍💻
 
-Here are some ideas to get you started:
+### Languages and tools:
+- Python
+- C#
+- ASP.NET
+- PHP
+- Ruby On Rails
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me:
+![Vk](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK) <br>
+![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)
+
+
+
+
