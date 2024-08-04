@@ -1,9 +1,8 @@
-## <p align=center>Hi there 👋</p>
+## <div align=center> Hi there! 🖐</div> 
 
 ### I am a student and an novice software developer from Russia 👨🏻‍💻 <br><br>
 <img align="right" alt="Coding" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width=600px height=450px> <br>
 <div align=center>
-<br>
   
 ### Languages and tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="60" height="60"/></a>
