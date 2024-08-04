@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I am a student and an novice software developer from Russia 👨🏻‍💻
-
+### I am a student and an novice software developer from Russia 👨🏻‍💻 <br><br>
+<img align="right" alt="Coding" src="https://otkritkis.com/wp-content/uploads/2022/07/guydo.gif"> <br><br>
 ### Languages and tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="c" width="60" height="60"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="c" width="60" height="60" /></a>
